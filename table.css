@@ -1,0 +1,37 @@
+.tftable {
+    font-size: 12px;
+    color: #333333;
+    width: 40vw;
+    border-width: 1px;
+    border-color: #9dcc7a;
+    border-collapse: collapse;
+    padding-left: 200px;
+    padding-right: 200px;
+}
+
+.tftable th {
+    font-size: 12px;
+    background-color: #abd28e;
+    border-width: 1px;
+    padding: 4px;
+    border-style: solid;
+    border-color: #9dcc7a;
+    text-align: center;
+}
+
+.tftable tr {
+    background-color: #ffffff;
+}
+
+.tftable td {
+    font-size: 12px;
+    border-width: 1px;
+    padding: 4px;
+    border-style: solid;
+    border-color: #9dcc7a;
+    text-align: center;
+}
+
+.tftable tr:hover {
+    background-color: #ffff99;
+}
